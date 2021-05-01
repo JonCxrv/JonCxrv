@@ -1,4 +1,4 @@
-### rocheda? preguiça de editar iso depois eu vejo 👋
+### rocheda? preguiça de editar isso depois eu vejo 👋
 
 <!--
 **Jhonvtxn/Jhonvtxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
