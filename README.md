@@ -1,8 +1,7 @@
-<h1 align="center">YESSIRR, Welcome to my profile!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <br>
 
 
-<summary>Github Stats</summary>
 <div>
   <a href="https://github.com/JonCxrv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonCxrv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
