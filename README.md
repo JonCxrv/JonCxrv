@@ -14,7 +14,4 @@
 
 ---
 <img src="https://imgur.com/rilHVxA.png"/>
-
-
-<img src="https://imgur.com/rilHVxA.png"/>
-    
+   
