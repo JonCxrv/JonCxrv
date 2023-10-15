@@ -47,11 +47,9 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajmolla&" alt="sirajmolla" /></p>
 
 [![@joncxrv's Holopin board](https://holopin.me/joncxrv)](https://holopin.io/@joncxrv)
 
-<h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
 ---
 <img src="https://imgur.com/rilHVxA.png"/>
    
