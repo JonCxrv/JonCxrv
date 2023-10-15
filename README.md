@@ -47,7 +47,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </div>
-[![An image of @joncxrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joncxrv)](https://holopin.io/@joncxrv)
+[![@joncxrv's Holopin board](https://holopin.me/joncxrv)](https://holopin.io/@joncxrv)
+[![@mollasiraj's Holopin board](https://holopin.me/mollasiraj)](https://holopin.io/@mollasiraj)
 ---
 <img src="https://imgur.com/rilHVxA.png"/>
    
