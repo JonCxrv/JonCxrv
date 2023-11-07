@@ -8,9 +8,6 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
