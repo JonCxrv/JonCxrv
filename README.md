@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 <h3 align="center">Full Stack Developer</h3>
+<h4 align="center">Computer Scientist</h4>
+
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/JonCxrv">
